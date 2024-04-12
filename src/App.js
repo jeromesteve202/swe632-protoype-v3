@@ -131,7 +131,7 @@ function App() {
       </h1>
 
       <div className="help-button-wrapper">
-        <button onClick={() => setShowInstructions(!showInstructions)} className='help-button' >Help</button>
+        <button onClick={() => setShowInstructions(!showInstructions)} className='help-button' >?</button>
       </div>
 
 
